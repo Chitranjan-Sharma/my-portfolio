@@ -1,0 +1,18 @@
+li {
+  padding-left: 20px;
+  padding-right: 20px;
+  
+}
+
+a{
+    color: white;
+    font-size: large;
+}
+li:hover {
+  background-color: aqua;
+  border-radius: 20px;
+}
+
+nav {
+  border-radius: 15px;
+}

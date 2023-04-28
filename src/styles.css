@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background-image: url("https://images.pexels.com/photos/6985049/pexels-photo-6985049.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.scaleElement:hover {
+  scale: 1.03;
+}

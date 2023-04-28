@@ -1,0 +1,26 @@
+iframe:hover {
+  scale: 1.1;
+}
+
+.iconScale:hover {
+  scale: 1.5;
+}
+
+/* .container {
+  animation-name: example;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes example {
+  0% {
+    background-image: linear-gradient(to right, rgb(216, 226, 226), rgb(151, 223, 252), rgb(228, 250, 250));
+    left: 0px;
+    top: 0px;
+  }
+  50% {
+    background-image: linear-gradient(to right, rgb(218, 250, 250), rgb(156, 218, 243), rgb(233, 248, 248));
+    left: 200px;
+    top: 0px;
+  }
+} */
