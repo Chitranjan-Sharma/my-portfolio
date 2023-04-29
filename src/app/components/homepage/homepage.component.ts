@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { ProjectData } from 'src/app/models/project-data';
-import { ApiService } from 'src/app/services/api.service';
 
 @Component({
   selector: 'app-homepage',
@@ -8,5 +7,5 @@ import { ApiService } from 'src/app/services/api.service';
   styleUrls: ['./homepage.component.css'],
 })
 export class HomepageComponent {
-  constructor(public api: ApiService) {}
+  constructor() {}
 }

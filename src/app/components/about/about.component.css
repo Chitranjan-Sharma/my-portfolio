@@ -1,3 +1,6 @@
 .scaleItem:hover {
   scale: 1.1;
 }
+.iconScale:hover {
+  scale: 1.5;
+}

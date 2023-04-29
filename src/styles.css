@@ -9,3 +9,7 @@ body {
 .scaleElement:hover {
   scale: 1.03;
 }
+
+.container {
+  border-radius: 20px;
+}

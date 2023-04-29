@@ -1,12 +1,11 @@
 li {
   padding-left: 20px;
   padding-right: 20px;
-  
 }
 
-a{
-    color: white;
-    font-size: large;
+a {
+  color: white;
+  font-size: large;
 }
 li:hover {
   background-color: aqua;
@@ -15,4 +14,8 @@ li:hover {
 
 nav {
   border-radius: 15px;
+}
+
+a:visited {
+  color: azure;
 }
